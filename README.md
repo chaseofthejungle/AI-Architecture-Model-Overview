@@ -59,6 +59,8 @@ This guide will provide an overview of the 7 layers of the AI Architecture Model
 
 ## <a name="supplemental">8. Supplemental Resources</a>
 
-(TODO)
-
+* *[eWeek Types of AI Models Article](https://www.eweek.com/artificial-intelligence/ai-model-types/)*
+* *[Google Developers Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)*
+* *[IBM 'What is an AI Model?' Article](https://www.ibm.com/think/topics/ai-model)*
+  
 <hr />
