@@ -20,14 +20,17 @@ This guide will provide an overview of the 7 layers of the AI Architecture Model
 * Provides a surface for AI models to run and process data, relying upon Tensor Processing Units (TPUs) and GPUs (e.g., AMD, NVIDIA).
   + Google is known for designing TPUs, with various partners assisting with the manufacturing of these units.
 * This layer is responsible for high speed data processing, storage, and distributing AI data processing workloads.
-* **Notable Uses:** On-premise AI servers, and popular cloud-based platforms (e.g., Amazon's AWS, Google Cloud, Microsoft Azure)
+* **Notable Uses:** On-premise AI servers, and popular cloud-based platforms (e.g., Amazon's AWS, Google Cloud, Microsoft Azure).
 
 <hr />
 
 ## <a name="data-link">2. Data Link Layer: Model Serving & API Integration</a>
 
-(TODO)
-
+* Integrates apps with AI models using pipelines and API systems.
+  + Enhances availability, scalability, and security of systems.
+* Operates via model servicing (e.g., FastAPI, TensorFlow), MLOps, and AI orchestration (e.g., AutoGPT, LangChain) tools.
+* **Notable Uses:** AI-embedded apps and Software-as-a-Service (SaaS) solutions.
+  
 <hr />
 
 ## <a name="computation">3. Computation Layer: Processing & Logical Execution</a>
