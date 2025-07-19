@@ -17,7 +17,10 @@ This guide will provide an overview of the 7 layers of the AI Architecture Model
 
 ## <a name="physical">1. Physical Layer: Hardware & Infrastructure</a>
 
-(TODO)
+* Provides a surface for AI models to run and process data, relying upon Tensor Processing Units (TPUs) and GPUs (e.g., AMD, NVIDIA).
+  + Google is known for designing TPUs, with various partners assisting with the manufacturing of these units.
+* This layer is responsible for high speed data processing, storage, and distributing AI data processing workloads.
+* **Notable Uses:** On-premise AI servers, and popular cloud-based platforms (e.g., Amazon's AWS, Google Cloud, Microsoft Azure)
 
 <hr />
 
