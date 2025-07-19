@@ -4,19 +4,20 @@ This guide will provide an overview of the 7 layers of the AI Architecture Model
 
 #### Table of Contents
 
-1. [Physical Layer: Hardware & Infrastructure](#physical)
-2. [Data Link Layer: Model Serving & API Integration](#data-link)
-3. [Computation Layer: Processing & Logical Execution](#computation)
-4. [Knowledge Layer: Retrieval & Reasoning Engine](#knowledge)
-5. [Learning Layer: Model Training & Optimization](#learning)
-6. [Representation Layer: Data Processing & Feature Engineering](#representation)
-7. [Application Layer: AI Interface & Deployment](#application)
+1. [Physical Layer](#physical)
+2. [Data Link Layer](#data-link)
+3. [Computation Layer](#computation)
+4. [Knowledge Layer](#knowledge)
+5. [Learning Layer](#learning)
+6. [Representation Layer](#representation)
+7. [Application Layer](#application)
 8. [Supplemental Resources](#supplemental)
 
 <hr />
 
-## <a name="physical">1. Physical Layer: Hardware & Infrastructure</a>
+## <a name="physical">1. Physical Layer</a>
 
+* *Focus: Hardware and Infrastructure.*
 * Provides a surface for AI models to run and process data, relying upon Tensor Processing Units (TPUs) and GPUs (e.g., AMD, NVIDIA).
   + Google is known for designing TPUs, with various partners assisting with the manufacturing of these units.
 * This layer is responsible for high speed data processing, storage, and distributing AI data processing workloads.
@@ -24,8 +25,9 @@ This guide will provide an overview of the 7 layers of the AI Architecture Model
 
 <hr />
 
-## <a name="data-link">2. Data Link Layer: Model Serving & API Integration</a>
+## <a name="data-link">2. Data Link Layer</a>
 
+* *Focus: Model Serving and API Integration.*
 * Integrates apps with AI models using pipelines and API systems.
   + Enhances availability, scalability, and security of systems.
 * Operates via model servicing (e.g., FastAPI, TensorFlow), MLOps, and AI orchestration (e.g., AutoGPT, LangChain) tools.
@@ -33,31 +35,43 @@ This guide will provide an overview of the 7 layers of the AI Architecture Model
   
 <hr />
 
-## <a name="computation">3. Computation Layer: Processing & Logical Execution</a>
+## <a name="computation">3. Computation Layer</a>
+
+* *Focus: Processing and Logical Execution.*
+* Responsible for logical execution and inference, as well as processing data in real-time.
+  + Relies on GPUs and TPUs as AI accelerators, and utiizes edge AI and distributed computing processes. 
+* Allows for usage of AI frameworks (e.g., JAX, PyTorch, TensorFlow).
+* **Notable Uses:** AI models operating via a variety of setups (e.g., federated learning, on-cloud, on-device).
+
+<hr />
+
+## <a name="knowledge">4. Knowledge Layer</a>
+
+* *Focus: Retrieval and Reasoning Engine Operations.*
 
 (TODO)
 
 <hr />
 
-## <a name="knowledge">4. Knowledge Layer: Retrieval & Reasoning Engine</a>
+## <a name="learning">5. Learning Layer</a>
+
+* *Focus: Model Training and Optimization.*
 
 (TODO)
 
 <hr />
 
-## <a name="learning">5. Learning Layer: Model Training & Optimization</a>
+## <a name="representation">6. Representation Layer</a>
+
+* *Focus: Data Processing and Feature Engineering.*
 
 (TODO)
 
 <hr />
 
-## <a name="representation">6. Representation Layer: Data Processing & Feature Engineering</a>
+## <a name="application">7. Application Layer</a>
 
-(TODO)
-
-<hr />
-
-## <a name="application">7. Application Layer: AI Interface & Deployment</a>
+* *Focus: AI Interfaces and Deployment.*
 
 (TODO)
 
