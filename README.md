@@ -47,9 +47,11 @@ This guide will provide an overview of the 7 layers of the AI Architecture Model
 
 ## <a name="knowledge">4. Knowledge Layer</a>
 
-* *Focus: Retrieval and Reasoning Engine Operations.*
-
-(TODO)
+* *Focus: External Data Retrieval and Reasoning Engine Operations.*
+* Refines AI decision-making capabilities by consulting external data sources.
+  + Consultation of big data improves reasoning, data retrieval, and fact checking capabilities.
+* Relies upon vector searches, knowledge graphs, and Retrieval-Augmented Generation (RAG).
+* **Notable Uses:** Large Language Model (LLM) code assistants (e.g., AskCodi, GitHub Copilot, Google Search, Ollama, Semantic Search).
 
 <hr />
 
