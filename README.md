@@ -62,15 +62,17 @@
   + Optimization tools include backpropagation, gradient descendent, and reinforcement learning.
 * Utilizes Convolutional Neural Networks (CNNs), Decision Trees, Recurrent Neural Networks (RNNs), and Transformers.
   + Various other neural networks may also be implemented by AI systems and classified under the Learning Layer.
-* **Notable Uses:** Facial recognition systems, GPT model training, self-driving cars.
+* **Notable Uses:** AI vision (allows computers to interpret visuals) for facial recognition systems, GPT model training, self-driving cars.
 
 <hr />
 
 ## <a name="representation">6. Representation Layer</a>
 
 * *Focus: Data Processing and Feature Engineering.*
-
-(TODO)
+* Converts raw data into useful information that AI models can process.
+  + Processes include embeddings, normalization, tokenization, and vectorization.
+* Relies upon Bidirectional Encoder Representations from Transformers (BERT) embeddings, Fourier transforms, Term Frequency-Inverse Document Frequency (TF-IDF), and Word2Vec.
+* **Notable Uses:** Natural Language Processing (NLP) text-to-embedded-image conversions, AI vision image-to-numerical-array conversions.
 
 <hr />
 
