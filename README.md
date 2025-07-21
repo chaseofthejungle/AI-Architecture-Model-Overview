@@ -58,8 +58,11 @@ This guide will provide an overview of the 7 layers of the AI Architecture Model
 ## <a name="learning">5. Learning Layer</a>
 
 * *Focus: Model Training and Optimization.*
-
-(TODO)
+* Handles training for deep and core machine learning processes.
+  + Optimization tools include backpropagation, gradient descendent, and reinforcement learning.
+* Utilizes Convolutional Neural Networks (CNNs), Decision Trees, Recurrent Neural Networks (RNNs), and Transformers.
+  + Various other neural networks may also be implemented by AI systems and classified under the Learning Layer.
+* **Notable Uses:** Facial recognition systems, GPT model training, self-driving cars.
 
 <hr />
 
