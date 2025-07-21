@@ -1,7 +1,7 @@
 # AI Architecture Model Overview Guide
 
-This guide will provide an overview of the 7 layers of the AI Architecture Model.
-
+**Description/Overview:** The following is a brief overview of how AI systems can be conceptually structured, providing examples of systems and components used for data flow and processing, machine learning/model training, and generating output from external data sources and previously gathered data.
+  
 #### Table of Contents
 
 1. [Physical Layer](#physical)
