@@ -79,8 +79,9 @@
 ## <a name="application">7. Application Layer</a>
 
 * *Focus: AI Interfaces and Deployment.*
-
-(TODO)
+* AI interacts with apps or users, such as through AI assistants, APIs, automation tools, and chat bots.
+* Core functionality of AI-driven software and LLM apps (such as Bard, ChatGPT, and Claude) is categorized in this layer.
+* **Notable Uses:** AI-driven customer support apps, content generation engines, voice assistant/personal assistant software, workflow automation apps.
 
 <hr />
 
