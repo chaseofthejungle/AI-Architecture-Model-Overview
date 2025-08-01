@@ -92,3 +92,5 @@
 * *[IBM 'What is an AI Model?' Article](https://www.ibm.com/think/topics/ai-model)*
   
 <hr />
+
+**TODO:** Add table of layers and definitions, including fields for: focus, definition, how the layer works, and notable uses.
